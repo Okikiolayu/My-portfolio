@@ -121,7 +121,7 @@ nav .fa{
 }
 
 
-@media(max-width:840px){
+@media(max-width:1080px){
     .detel h1{
         font-size:25px;
 
@@ -165,6 +165,10 @@ nav .fa{
 }
 nav .logo{
     width:70px;
+}
+
+.body {
+    display: ;
 }
 }
 
